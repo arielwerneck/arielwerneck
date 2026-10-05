@@ -1,22 +1,22 @@
 <h1 align="center">Olá 👋</h1>
 
 <p align="center">
-  <em>Full-stack developer passionate about building scalable systems and exploring new technologies.</em>
+  <em>Building game engines from scratch and going full-stack — from TypeScript to Rust, one commit at a time.</em>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs" height="50" alt="frontend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs" height="45" alt="frontend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=go,rust,py,aws" height="50" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,aws" height="45" alt="backend" />
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+<h3 align="center">🌐 Connect</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/arielwerneck"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" /></a>
@@ -28,32 +28,17 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arielwerneck&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arielwerneck&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=arielwerneck&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arielwerneck&layout=compact&theme=dracula&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arielwerneck&layout=compact&theme=default&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielwerneck&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
+<h3 align="center">🔥 Streak</h3>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=arielwerneck&theme=dracula&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=arielwerneck&theme=default&hide_border=true" />
-    <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=arielwerneck&theme=dracula&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=arielwerneck&theme=dracula&hide_border=true" alt="Streak Stats" />
   </picture>
 </div>
 
 ---
-
-<h2 align="center">🐍 Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielwerneck/arielwerneck/output/snake-dark.svg" />
