@@ -1,7 +1,8 @@
 ## Hey there 👋, I'm [Ariel!](https://github.com/arielwerneck/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arielwerneck)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arielwerneck)
+[![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/werneckariel)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/werneckariel)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/arielwerneck)
 [![dev.to Badge](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/arielwerneck)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
