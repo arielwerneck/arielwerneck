@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋</h1>
 
 <p align="center">
-  <em>Building game engines from scratch and going full-stack — from TypeScript to Rust, one commit at a time.</em>
+  <em>Building game engines from scratch- Full-stack developer.</em>
 </p>
 
 ---
