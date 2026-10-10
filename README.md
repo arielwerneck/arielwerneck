@@ -9,7 +9,7 @@
 [![Roblox Badge](https://img.shields.io/badge/-Roblox%20%C2%B7%20Galact13__YT-000000?style=flat-square&logo=Roblox&logoColor=white)](https://www.roblox.com/search/users?keyword=Galact13_YT)
 
 ### Glad to see you here!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arielwerneck&label=Profile%20views&color=0e75b6&style=flat" alt="arielwerneck" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=arielwerneck.arielwerneck&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views" /> </p>
 
 I build game engines from scratch and I'm a full-stack developer. 🚀
 
